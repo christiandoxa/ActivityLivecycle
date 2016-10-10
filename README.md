@@ -4,7 +4,7 @@
 <br>
 
 ### Screenshot Aplikasi
-<img src="https://github.com/zhergiuz/ActivityLivecycle" width="30%" height="30%">
+<img src="https://github.com/zhergiuz/ActivityLivecycle/blob/master/1.png" width="30%" height="30%">
 <br>
 
 ### Identitas
